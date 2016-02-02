@@ -1,0 +1,21 @@
++ Prepare Startup
+	- Winsock2 DLL loading 	: OK 
+	- Database DLL loading 	: OK 
++ HINT Server Startup 
+	- HINT Sensor Server Begin : 	: OK 
+
+# HINT Server Running... #
+# New client connected : 042B0040608
+# Read packet : PT_LOCK_SENSOR_SETUP 		: xxxxx2xxx
+# New client connected : 040B0040604
+# Read packet : PT_RFID_SENSOR_SETUP 		: xxxxx3xxx
+# New client connected : 03EB0040600
+# New client connected : 03CB0040596
+# Read packet : PT_RFID_SENSOR_SETUP 		: xxxxx3xxx
+# Read packet : PT_LED_SENSOR_SETUP 		: xxxxx1xxx
+# New client connected : 03AB0040592
+# Read packet : PT_LOCK_SENSOR_SETUP 		: xxxxx2xxx
+	+ SENSOR_ARDUINO_SETUP_SUCC 
+# Read packet : PT_RFID_SENSOR_SETUP 		: xxxxx3xxx
+# Read packet : PT_PRESSURE_SENSOR_SETUP 		: xxxxx4xxx
+# Read packet : PT_LED_SENSOR_SETUP 		: xxxxx1xxx

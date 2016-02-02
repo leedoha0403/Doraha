@@ -1,0 +1,3 @@
++ Prepare Startup
+	- Winsock2 DLL loading 	: OK 
+	- Database DLL loading 

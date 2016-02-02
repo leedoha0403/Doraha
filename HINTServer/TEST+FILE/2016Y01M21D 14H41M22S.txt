@@ -1,0 +1,11 @@
++ Prepare Startup
+	- Winsock2 DLL loading 	: OK 
++ HINT Server Startup 
+	- HINT Sensor Server Begin : 	: OK 
+
+# HINT Server Running... #
+# New client connected : 0558B040432
+# Read packet : PT_LED_SENSOR_RESPONSE 		: 000000001
+# Read packet : PT_LED_SENSOR_RESPONSE 		: 000000001
+# Read packet : PT_LED_SENSOR_RESPONSE 		: 000000001
+# New client connected : # New client connected : 

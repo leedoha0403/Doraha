@@ -1,0 +1,9 @@
++ Prepare Startup
+	- Winsock2 DLL loading 	: OK 
++ HINT Server Startup 
+	- HINT Sensor Server Begin : 	: OK 
+
+# HINT Server Running... #
+# New client connected : 056F7040424
+# Read packet : PT_LED_SENSOR_SETUP 		: xxxxx1xxx
+# Client disconnected : 056F7040424

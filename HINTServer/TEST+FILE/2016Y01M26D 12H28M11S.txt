@@ -1,0 +1,24 @@
++ Prepare Startup
+	- Winsock2 DLL loading 	: OK 
+	- Database DLL loading 	: OK 
++ HINT Server Startup 
+	- HINT Sensor Server Begin : 	: OK 
+
+# HINT Server Running... #
+# New client connected : 04120040608
+# Read packet : PT_PRESSURE_SENSOR_SETUP 		: xxxxx4xxx
+# Read packet : PT_PRESSURE_SENSOR_SETUP 		: xxxxx4xxx
+# Read packet : PT_PRESSURE_SENSOR_SETUP 		: xxxxx4xxx
+	+ SENSOR_ARDUINO_ERROR 
+# Read packet : PT_PRESSURE_SENSOR_SETUP 		: xxxxx4xxx
+# Read packet : PT_PRESSURE_SENSOR_SETUP 		: xxxxx4xxx
+# Read packet : PT_PRESSURE_SENSOR_SETUP 		: xxxxx4xxx
+	+ SENSOR_ARDUINO_ERROR 
+# Read packet : PT_PRESSURE_SENSOR_SETUP 		: xxxxx4xxx
+# Read packet : PT_PRESSURE_SENSOR_SETUP 		: xxxxx4xxx
+# Read packet : PT_PRESSURE_SENSOR_SETUP 		: xxxxx4xxx
+	+ SENSOR_ARDUINO_ERROR 
+# Read packet : PT_PRESSURE_SENSOR_SETUP 		: xxxxx4xxx
+# Read packet : PT_PRESSURE_SENSOR_SETUP 		: xxxxx4xxx
+# Read packet : PT_PRESSURE_SENSOR_SETUP 		: xxxxx4xxx
+	+ SENSOR_ARDUINO_ERROR 

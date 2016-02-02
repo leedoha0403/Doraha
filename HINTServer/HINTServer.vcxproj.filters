@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Lib">
+      <UniqueIdentifier>{ef0cc09d-2a3c-4f23-b539-ee66e8c99632}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Aduino">
+      <UniqueIdentifier>{ce21b3c0-fd7f-472a-a03d-0f87cb26bf1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ClientData">
+      <UniqueIdentifier>{179cb312-da47-4e0c-b128-458906850b29}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="Database.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="CCircularQueue.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="CCriticalSection.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="CIocp.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientSession.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="CMemoryPool.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="CMultiThreadSync.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="CNetworkSession.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="CPacketSession.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="CStream.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="EventSelect.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="Core_header.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="ConnectSensorManager.h">
+      <Filter>소스 파일\Aduino</Filter>
+    </ClInclude>
+    <ClInclude Include="HINTSensorIocp.h">
+      <Filter>소스 파일\Aduino</Filter>
+    </ClInclude>
+    <ClInclude Include="ConnectSensor.h">
+      <Filter>소스 파일\Aduino</Filter>
+    </ClInclude>
+    <ClInclude Include="헤더.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ProtocolHeader.h">
+      <Filter>소스 파일\Aduino</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="BundleOfStageData.h">
+      <Filter>소스 파일\ClientData</Filter>
+    </ClInclude>
+    <ClInclude Include="StageData.h">
+      <Filter>소스 파일\ClientData</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ConnectSensorManager.cpp">
+      <Filter>소스 파일\Aduino</Filter>
+    </ClCompile>
+    <ClCompile Include="HINTSensorIocp.cpp">
+      <Filter>소스 파일\Aduino</Filter>
+    </ClCompile>
+    <ClCompile Include="HINTServer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ConnectSensor.cpp">
+      <Filter>소스 파일\Aduino</Filter>
+    </ClCompile>
+    <ClCompile Include="SensorProc.cpp">
+      <Filter>소스 파일\Aduino</Filter>
+    </ClCompile>
+    <ClCompile Include="BundleOfStageData.cpp">
+      <Filter>소스 파일\ClientData</Filter>
+    </ClCompile>
+    <ClCompile Include="StageData.cpp">
+      <Filter>소스 파일\ClientData</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="HINTServer.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

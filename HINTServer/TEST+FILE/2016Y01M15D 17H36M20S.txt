@@ -1,0 +1,19 @@
++ Prepare Startup
+	- Winsock2 DLL loading 	: OK 
+	- Database DLL loading 	: OK 
++ HINT Server Startup 
+	- HINT Unity Iocp Begin : 	: OK 
+	- HINT Sensor Server Begin : 	: OK 
+
+# HINT Server Running... #
+# New client connected : # Read packet : PT_SENSOR_DATA 
+08D290401136
+# Read packet : PT_SENSOR_DATA 
+# Read packet : PT_SENSOR_DATA 
+# Read packet : PT_SENSOR_DATA 
+# Read packet : PT_SENSOR_DATA 
+# Read packet : PT_SENSOR_DATA 
+# Read packet : PT_SENSOR_DATA 
+# Read packet : PT_SENSOR_DATA 
+# Read packet : PT_SENSOR_DATA 
+# Client disconnected : 08D290401136

@@ -1,0 +1,2 @@
+cmd(관리자 실행)
+C:\Users\Game01\Documents\Visual Studio 2012\Projects\HINT-Server\Debug>PacketGenerator.exe TcpProtocol.h TCP

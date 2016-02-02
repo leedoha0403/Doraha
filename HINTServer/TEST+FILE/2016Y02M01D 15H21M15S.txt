@@ -1,0 +1,53 @@
++ Prepare Startup
+	- Winsock2 DLL loading 	: OK 
+	- Database DLL loading 	: OK 
++ HINT Server Startup 
+	- HINT Sensor Server Begin : 	: OK 
+
+# HINT Server Running... #
+# New client connected : 059D6040832
+# New client connected : 057C2040828
+# Client disconnected : 057C2040828
+# New client connected : 057C2040828
+# Regist Socket Mobile : 057C2040
+# Read packet : onPT_ALL_MOBILE_CONNECT 		: 111111111
+	+ SENSOR_MOBLIE_SETUP_SUCC 
+# Send Packet : ALL_MOBILE_READY    :
+# Do not Regist Socket Mobile : 057C2040
+# Read packet : onPT_ALL_MOBILE_CONNECT 		: 111111111
+# Send Packet : ALL_MOBILE_READY    :
+# Client disconnected : 057C2040900
+# New client connected : 057C2040900
+# Do not Regist Socket Mobile : 057C2040
+# Read packet : onPT_ALL_MOBILE_CONNECT 		: 111111111
+# Send Packet : ALL_MOBILE_READY    :
+# Client disconnected : 057C2040900
+# New client connected : 057C2040900
+# Do not Regist Socket Mobile : 057C2040
+# Read packet : onPT_ALL_MOBILE_CONNECT 		: 111111111
+# Send Packet : ALL_MOBILE_READY    :
+# Client disconnected : 057C2040900
+# New client connected : 057C2040900
+# Do not Regist Socket Mobile : 057C2040
+# Read packet : onPT_ALL_MOBILE_CONNECT 		: 111111111
+# Send Packet : ALL_MOBILE_READY    :
+# Client disconnected : 057C2040900
+# New client connected : 057C2040900
+# Do not Regist Socket Mobile : 057C2040
+# Read packet : onPT_ALL_MOBILE_CONNECT 		: 111111111
+# Send Packet : ALL_MOBILE_READY    :
+# New client connected : 055BF040824
+# Regist Socket Mobile : 055BF040
+# Read packet : onPT_ALL_MOBILE_CONNECT 		: 111111111
+# Send Packet : ALL_MOBILE_READY    :
+# Client disconnected : 055BF040824
+# New client connected : 055BF040824
+# Client disconnected : 055BF040824
+# New client connected : 055BF040824
+# Do not Regist Socket Mobile : 055BF040
+# Read packet : onPT_ALL_MOBILE_CONNECT 		: 111111111
+# Send Packet : ALL_MOBILE_READY    :
+# New client connected : 053AB040820
+# Regist Socket Mobile : 053AB040
+# Read packet : onPT_ALL_MOBILE_CONNECT 		: 111111111
+# Send Packet : ALL_MOBILE_READY    :

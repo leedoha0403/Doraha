@@ -1,0 +1,8 @@
++ Prepare Startup
+	- Winsock2 DLL loading 	: OK 
++ HINT Server Startup 
+	- HINT Sensor Server Begin : 	: OK 
+
+# HINT Server Running... #
+# New client connected : 04D37040420
+# Client disconnected : 04D37040420

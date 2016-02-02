@@ -1,0 +1,19 @@
++ Prepare Startup
+	- Winsock2 DLL loading 	: OK 
+	- Database DLL loading 	: OK 
++ HINT Server Startup 
+	- HINT Unity Iocp Begin : 	: OK 
+	- HINT Sensor Server Begin : 	: OK 
+
+# HINT Server Running... #
+exit
+	- HINT Unity Server Iocp End	: [ ok ]
+
+	- HINT Sensor Server Iocp End	: [ ok ]
+
+	- Winsock2 DLL unloading	: [ ok ]
+
+# HINT Server Stoped... #
+
+Press any key... 
+

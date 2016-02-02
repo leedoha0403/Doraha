@@ -1,0 +1,7 @@
++ Prepare Startup
+	- Winsock2 DLL loading 	: OK 
++ HINT Server Startup 
+	- HINT Sensor Server Begin : ListenSession.Listen
+	: FAIL 
+# HINT Sensor Server Stoped... #
+Press any key... 
