@@ -1,6 +1,0 @@
-+ Prepare Startup
-	- Winsock2 DLL loading 	: OK 
-+ HINT Server Startup 
-	- HINT Sensor Server Begin : 	: OK 
-
-# HINT Server Running... #
